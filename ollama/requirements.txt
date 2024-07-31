@@ -1,4 +1,7 @@
-Install ollama for windows 
-run command 
- download model by using following command 
-	ollama pull conceptsintamil/tamil-llama-7b-instruct-v0.2
+ollama
+streamlit
+torch
+sklearn
+matplotlib
+numpy
+pandas
